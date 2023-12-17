@@ -24,5 +24,5 @@ Minha missão vai além do código. Estou aqui para transformar desafios em triu
 
 Explore, colabore, e vamos construir algo extraordinário juntos!
 
-- [LinkedIn](www.linkedin.com/in/natan-pereira-699954b4)
+- [LinkedIn](https://www.linkedin.com/in/natan-pereira-699954b4/)
 - [Email](mailto:natanj49@gmail.com)
