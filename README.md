@@ -1,8 +1,8 @@
-# 🚀 Bem-vindo ao Universo Codificado de [Seu Nome] 🌌✨
+# 🚀 Bem-vindo ao Universo Codificado de Natan Pereira 🌌✨
 
 ## Olá, Devs! 👋
 
-Eu sou [Seu Nome], um arquiteto de códigos e sonhador incansável, forjando realidades digitais extraordinárias. Este é o meu reino, onde linhas de código se transformam em poesia técnica.
+Eu sou Natan Pereira, um arquiteto de códigos e sonhador incansável, forjando realidades digitais extraordinárias. Este é o meu reino, onde linhas de código se transformam em poesia técnica.
 
 ## 💻 Tecnologias em Domínio
 
@@ -24,7 +24,5 @@ Minha missão vai além do código. Estou aqui para transformar desafios em triu
 
 Explore, colabore, e vamos construir algo extraordinário juntos!
 
-- [Portfolio](seuportfolio.com)
-- [Twitter](https://twitter.com/seuusuario)
-- [LinkedIn](https://www.linkedin.com/in/seuusuario/)
-- [Email](mailto:seuemail@example.com)
+- [LinkedIn](www.linkedin.com/in/natan-pereira-699954b4)
+- [Email](mailto:natanj49@gmail.com)
